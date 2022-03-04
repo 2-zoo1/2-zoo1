@@ -1,31 +1,51 @@
 # Fear is the mind-killer.
-the 'Kwisatz Haderach' of Blockchain,
-<p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future."
+</p> the 'Kwisatz Haderach' of Blockchain,
+</p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future." <p>
 
 ## Junior Software Developer
 ### Juwon Lee
+  - Careers </p>
   
-
+  | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
+  |:--------: |:--------:|:--------:|:--------:|:--------:|
+  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Producing Team) | Smart Contract (BEP20 and Vesting, Marketplace), related DApp Development |
+  | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | On deploying |
+  
+  - Education </p>
+  
+   | School Name | School Year | Major (Degree) | Status |
+   |:--------: |:--------:|:--------:|:--------:|
+   | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Sophomore | 
+   
+  - LinkedIn: https://www.linkedin.com/in/2-zoo1
+  - Personal Website : 
+  - Blog : 
+  
 ## Skills and Experiences
+  ### Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
+  Experience as a Pro for Commercialization
+  - Smart Contract: Solidity, Ganache, Remix, HardHat 
+  - DApp : Ability to struct Smart Contract and required 
+  - Core : Go (with bolt DB) -> 
+  - P2E, NFT :
+  - DeFi : 
   
   ### Full Stack
+   Experience as a Pro for Commercialization
+  - FrontEnd: React, Next.js, JS(ES6), TypeScript
+  - BackEnd : Python (Django, Flask), Java (Spring) , Node.js, DB(MySQL, Mongo DB)
+  - Mobile : Dart (Flutter), React-Native, Kotlin, Swift
   
   ### Game
+  - studying as a novice
   
   ### Machine Learning 
-
-<!--
-**2-zoo1/2-zoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - studying as a novice 
+  
+  ### Computer Science and Cyber Security 
+  - studying as a student in major
+  - Data Structure, Algorithm, Network, OS ...
+  
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2-zoo1&show_icons=true&locale=en&layout=compact" alt="2-zoo1"/></p>
+  
