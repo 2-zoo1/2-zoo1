@@ -1,5 +1,5 @@
-# 👑 World's Best Developer 👑 
-
+# Fear is the mind-killer.
+## World's Best Developer, Juwon Lee
 <!--
 **2-zoo1/2-zoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
