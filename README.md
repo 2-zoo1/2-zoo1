@@ -1,7 +1,9 @@
 # Fear is the mind-killer.
-The cheif developer of the House Atreides. 
+the 'Kwisatz Haderach' of Blockchain,
+"A mind, powerful enough to breach space and time, past and future, who can help us into a better future."
 
 ## World's Best Developer
+
 
 ## 
 
