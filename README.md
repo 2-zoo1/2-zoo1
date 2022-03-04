@@ -47,5 +47,5 @@
   - studying as a student in major
   - Data Structure, Algorithm, Network, OS ...
   
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2-zoo1&show_icons=true&locale=en&layout=compact" alt="2-zoo1"/></p>
-  
+  <br>
+  <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=2-zoo1&show_icons=true&locale=en" alt="2-zoo1" /></p>
