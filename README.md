@@ -27,9 +27,9 @@
   Experience as a Pro for Commercialization
   - Smart Contract: Solidity, Ganache, Remix, HardHat 
   - DApp : Ability to struct Smart Contract and required 
-  - Core : Go (with bolt DB) -> 
-  - P2E, NFT :
-  - DeFi : 
+  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana 
+  - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
+  - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet), more studying!
   
   ### Full Stack
    Experience as a Pro for Commercialization
