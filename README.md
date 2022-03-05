@@ -8,8 +8,8 @@
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Producing Team) | Smart Contract (BEP20 and Vesting, Marketplace), related DApp Development |
-  | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | On deploying |
+  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Producing Team) | On Work |
+  | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract (BEP20 and Vesting, Marketplace), related DApp Development |
   
   - Education </p>
   
