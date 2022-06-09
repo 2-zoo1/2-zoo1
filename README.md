@@ -26,15 +26,15 @@
   Experience as a Pro for Commercialization
   - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust <ex> CosmWasm, Metaplex
   - DApp : Ability to struct Smart Contract and required 
-  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK
+  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet), more studying!
   
   ### Full Stack
    Experience as a Pro for Commercialization
-  - FrontEnd: React, Next.js, JS(ES6), TypeScript
-  - BackEnd : Python (Django, Flask), Java (Spring) , Node.js, DB(MySQL, Mongo DB)
-  - Mobile : Dart (Flutter), React-Native, Kotlin, Swift
+  - FrontEnd: React, Next.js, JS(ES6), TypeScript ...
+  - BackEnd : Python (Django, Flask), Java (Spring) , Node.js, DB(MySQL, Mongo DB) ...
+  - Mobile : Dart (Flutter), React-Native, Kotlin, Swift ...
   
   ### Game
   - studying as a novice
