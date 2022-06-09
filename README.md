@@ -12,22 +12,21 @@
   | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract (BEP20 and Vesting, Marketplace), related DApp Development |
   
   - Education </p>
+  ### Vice President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
   
    | School Name | School Year | Major (Degree) | Status |
    |:--------: |:--------:|:--------:|:--------:|
    | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Sophomore | 
    
   - LinkedIn: https://www.linkedin.com/in/2-zoo1
-  - Personal Website : 
-  - Blog : 
   
 ## Skills and Experiences
   ### Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
   Experience as a Pro for Commercialization
-  - Smart Contract: Solidity, Ganache, Remix, HardHat 
+  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust <ex> CosmWasm, Metaplex
   - DApp : Ability to struct Smart Contract and required 
-  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana 
+  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet), more studying!
   
