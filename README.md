@@ -19,6 +19,7 @@
    | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Sophomore | 
    
   - LinkedIn: https://www.linkedin.com/in/2-zoo1
+  - https://linktr.ee/2_zoo1
   
 ## Skills and Experiences
   ### Expert in DApp development with Smart Contract and Full Stack Dev
