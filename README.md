@@ -2,14 +2,14 @@
 </p> the 'Kwisatz Haderach' of Blockchain,
 </p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future." - "Dune" (2021) <p>
 
-## Junior Software Developer
+## Junior Software Engineeer
 ### Juwon Lee
   - Careers </p>
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Meta Platform Team) | On Working |
-  | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract (BEP20 and Vesting, Marketplace), related DApp Development |
+  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R%D and Frontend |
+  | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
   - Education </p>
   ### Vice President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
