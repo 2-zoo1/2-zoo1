@@ -8,7 +8,7 @@
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R%D and Frontend |
+  | NPIXEL | Game (Metaverse, P2E) |2022.03 - Present | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
   | ALTAVA GROUP | Game (Metaverse, P2E) |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
   - Education </p>
