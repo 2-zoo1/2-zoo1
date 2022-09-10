@@ -25,7 +25,7 @@
   ### Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
   Experience as a Pro for Commercialization
-  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust <ex> CosmWasm, Metaplex
+  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust <ex> CosmWasm, Anchor
   - DApp : Ability to struct Smart Contract and required 
   - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
@@ -33,19 +33,21 @@
   
   ### Full Stack
    Experience as a Pro for Commercialization
-  - FrontEnd: React, Next.js, JS(ES6), TypeScript ...
+  - FrontEnd: React, Next.js and its libraries, JS(ES6), TypeScript ...
   - BackEnd : Python (Django, Flask), Java (Spring) , Node.js, DB(MySQL, Mongo DB) ...
   - Mobile : Dart (Flutter), React-Native, Kotlin, Swift ...
   
   ### Game
-  - studying as a novice
-  
-  ### Machine Learning 
-  - studying as a novice 
+  - As a member of a game company, getting many insights!
+  - Exploring Unity and Unreal Engine 5
+  - C, C++
   
   ### Computer Science and Cyber Security 
-  - studying as a student in major
+  - Studying as a student in major
   - Data Structure, Algorithm, Network, OS ...
   
+  ### Machine Learning 
+  - Studying as a novice 
+  
   <br>
-  <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=2-zoo1&show_icons=true&locale=en" alt="2-zoo1" /></p>
+  <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwonleedev&show_icons=true&locale=en" alt="juwonleedev" /></p>
