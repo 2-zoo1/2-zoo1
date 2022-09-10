@@ -3,7 +3,7 @@
 </p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future." - "Dune" (2021) <p>
 
 ## Junior Software Engineer
-### Juwon Lee
+### 이주원 Juwon Irene Lee
   - Careers </p>
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
