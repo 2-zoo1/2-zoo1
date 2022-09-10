@@ -2,7 +2,7 @@
 </p> the 'Kwisatz Haderach' of Blockchain,
 </p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future." - "Dune" (2021) <p>
 
-## Junior Software Engineeer
+## Junior Software Engineer
 ### Juwon Lee
   - Careers </p>
   
