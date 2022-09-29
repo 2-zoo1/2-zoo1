@@ -1,18 +1,14 @@
-# Fear is the mind-killer.
-</p> the 'Kwisatz Haderach' of Blockchain,
-</p> "A mind, powerful enough to breach space and time, past and future, who can help us into a better future." - "Dune" (2021) <p>
-
-## Junior Software Engineer
-### 이주원 (Irene Lee)
-  - Careers </p>
+# Blockchain Developer
+## Hello, I'm Irene👋
+### Careers </p>
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
   | NPIXEL | Blockchain Game |2022.03 - Present | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
   | ALTAVA GROUP | Blockchain Game |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
-  - Education </p>
-  ### Vice President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
+  ### Education </p>
+  #### Vice President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
   
    | School Name | School Year | Major (Degree) | Status |
    |:--------: |:--------:|:--------:|:--------:|
@@ -25,7 +21,7 @@
   ### Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
   Experience as a Pro for Commercialization
-  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust <ex> CosmWasm, Anchor
+  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust ex) Anchor, CosmWasm
   - DApp : Ability to struct Smart Contract and required 
   - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
