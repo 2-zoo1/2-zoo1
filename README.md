@@ -1,5 +1,7 @@
 # Blockchain Developer
 ## Hello, I'm Irene👋
+  - LinkedIn: https://www.linkedin.com/in/juwonleedev
+  - Social connects: https://linktr.ee/juwonleedev
 ### Careers </p>
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
@@ -13,9 +15,6 @@
    | School Name | School Year | Major (Degree) | Status |
    |:--------: |:--------:|:--------:|:--------:|
    | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Sophomore | 
-   
-  - LinkedIn: https://www.linkedin.com/in/juwonleedev
-  - https://linktr.ee/juwonleedev
   
 ## Skills and Experiences
   ### Expert in DApp development with Smart Contract and Full Stack Dev
