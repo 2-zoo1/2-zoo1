@@ -6,6 +6,7 @@
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
+  | Solana Foundation | Blockchain Foundation |2023.01 - Current | Ambassador | Solana University |
   | NPIXEL | Blockchain Game |2022.03 - 2022.10 | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
   | ALTAVA GROUP | Blockchain Game |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
@@ -20,8 +21,8 @@
   ### Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
   Experience as a Pro for Commercialization
-  - Smart Contract: Solidity, Ganache, Remix, HardHat / Rust ex) Anchor, CosmWasm
-  - DApp : Ability to struct Smart Contract and required 
+  - Smart Contract: Solidity, Rust (Solana), Move (Aptos)
+  - DApp : Ability to struct Smart Contract and required using SDKs and Wallet Adapters
   - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet), more studying!
