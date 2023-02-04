@@ -11,7 +11,7 @@
   | ALTAVA GROUP | Blockchain Game |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
   ### Education </p>
-  #### Vice President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
+  #### President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
   
    | School Name | School Year | Major (Degree) | Status |
    |:--------: |:--------:|:--------:|:--------:|
