@@ -6,7 +6,7 @@
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | Solana Foundation | Blockchain Foundation |2023.06 - Current | Business Development Intern |  |
+  | Solana Foundation | Blockchain Foundation |2023.06 - 2023.09 | Business Development Intern | Korean market & Games Entertainment Media |
   | Solana Foundation | Blockchain Foundation |2023.01 - Current | Ambassador | Solana University |
   | NPIXEL | Blockchain Game |2022.03 - 2022.10 | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
   | ALTAVA GROUP | Blockchain Game |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
