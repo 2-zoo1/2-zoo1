@@ -38,7 +38,7 @@
   - Studying as a student in major
   - Data Structure, Algorithm, Network, OS ...
   
-  ### Machine Learning 
+  ### Artificial Intelligence & Data Science
   - Studying as a novice 
   
   <br>
