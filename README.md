@@ -2,7 +2,7 @@
 ## Hello, I'm Irene👋
   - LinkedIn: https://www.linkedin.com/in/juwonleedev
   - Social connects: https://linktr.ee/juwonleedev
-## Careers </p>
+## Careers
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
@@ -12,7 +12,7 @@
   | NPIXEL | Blockchain Game |2022.03 - 2022.10 | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
   | ALTAVA GROUP | Blockchain Game |2021.12 - 2022.03 | Blockchain Developer (Blockchain Team) | Smart Contract and Frontend|
   
-## Education </p>
+## Education
   ### President of EWHA-CHAIN (Blockchain Academic Club of Ewha Womans University) 
   
    | School Name | School Year | Major (Degree) | Status |
