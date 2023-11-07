@@ -1,4 +1,4 @@
-# Blockchain Developer
+# Blockchain Researcher & Developer
 ## Hello, I'm Irene👋
   - LinkedIn: https://www.linkedin.com/in/juwonleedev
   - Social connects: https://linktr.ee/juwonleedev
