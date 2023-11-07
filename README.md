@@ -27,18 +27,12 @@
   - DApp : Ability to struct Smart Contract and required using SDKs and Wallet Adapters
   - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
-  - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet), more studying!
+  - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet)
   
   ### Full Stack
    Experience as a Pro for Commercialization
   - FrontEnd: React, Next.js and its libraries, JS(ES6), TypeScript ...
-  - BackEnd : Python (Django, Flask), Java (Spring) , Node.js, DB(MySQL, Mongo DB) ...
-  - Mobile : Dart (Flutter), React-Native, Kotlin, Swift ...
-  
-  ### Game
-  - As a member of a game company, getting many insights!
-  - Exploring Unity and Unreal Engine 5
-  - C, C++
+  - BackEnd : Python (Django, Flask), Java (Spring) , DB(MySQL, Mongo DB) ...
   
   ### Computer Science and Cyber Security 
   - Studying as a student in major
