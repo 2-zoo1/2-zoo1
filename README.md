@@ -15,7 +15,7 @@
   
    | School Name | School Year | Major (Degree) | Status |
    |:--------: |:--------:|:--------:|:--------:|
-   | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Junior | 
+   | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Senior | 
   
 ## Skills and Experiences
   ### Expert in DApp development with Smart Contract and Full Stack Dev
