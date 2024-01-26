@@ -1,7 +1,4 @@
-# Blockchain Research Engineer
-## Hello, I'm Irene👋
-  - LinkedIn: https://www.linkedin.com/in/juwonleedev
-  - Social connects: https://linktr.ee/juwonleedev
+# Irene Lee - Blockchain Research Engineer
 ## Careers
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
