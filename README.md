@@ -1,4 +1,4 @@
-# Irene Lee - Blockchain Research Engineer
+# 🌸 Irene Lee: Blockchain Research Engineer 🌸
 ## Careers
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
