@@ -36,7 +36,8 @@
   - Data Structure, Algorithm, Network, OS ...
   
   ### Artificial Intelligence & Data Science
-  - Studying as a novice 
+  - Dune: https://dune.com/juwonleedev
+  - FlipsideCrypto: https://flipsidecrypto.xyz/juwonleedev
   
   <br>
   <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwonleedev&show_icons=true&locale=en" alt="juwonleedev" /></p>
