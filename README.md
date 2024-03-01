@@ -17,12 +17,11 @@
    | Ewha Womans University | 2020.03 ~ Present | Library and Information Science (B.A.), </p> Cyber Security (B.E.) | Senior | 
   
 ## Skills and Experiences
-  Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
   Experience as a Professional for Commercialization
   - Smart Contract: Solidity, Rust (Solana), Move (Aptos)
   - DApp : Ability to struct Smart Contract and required using SDKs and Wallet Adapters
-  - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
+  - Core : Go (with bolt DB), Rust & Protocol technical analysis
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet)
   
