@@ -31,7 +31,7 @@
   - FrontEnd: React, Next.js and its libraries, JS(ES6), TypeScript ...
   - BackEnd : Python (Django, Flask), Java (Spring) , DB(MySQL, Mongo DB) ...
   
-  ### Artificial Intelligence & Data Science
+  ### Data Science & Engineering
   - Dune: https://dune.com/juwonleedev
   - FlipsideCrypto: https://flipsidecrypto.xyz/juwonleedev
   
