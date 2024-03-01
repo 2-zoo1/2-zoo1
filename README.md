@@ -34,6 +34,7 @@ Tech blog (Korean): https://velog.io/@juwonleedev/posts
   ### Data Science & Engineering
   - Dune: https://dune.com/juwonleedev
   - FlipsideCrypto: https://flipsidecrypto.xyz/juwonleedev
+  - Machine Learning, Deep Learning
   
   <br>
   <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwonleedev&show_icons=true&locale=en"/></p>
