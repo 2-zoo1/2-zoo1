@@ -40,4 +40,4 @@
   - FlipsideCrypto: https://flipsidecrypto.xyz/juwonleedev
   
   <br>
-  <p  align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwonleedev&show_icons=true&locale=en" alt="juwonleedev" /></p>
+  <p  align="center"> <img align="center" src="github-readme-stats.vercel.app/api?username=juwonleedev&show_icons=true" /></p>
