@@ -26,7 +26,7 @@
   - P2E, NFT : made various smart contracts needed (ex. ERC-20, ERC-721, Marketplace...)
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet)
   
-  ### Full Stack
+  ### Web Development (Full stack)
    Experience as a Professional for Commercialization
   - FrontEnd: React, Next.js and its libraries, JS(ES6), TypeScript ...
   - BackEnd : Python (Django, Flask), Java (Spring) , DB(MySQL, Mongo DB) ...
