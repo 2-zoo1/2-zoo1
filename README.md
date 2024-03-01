@@ -19,7 +19,7 @@
 ## Skills and Experiences
   Expert in DApp development with Smart Contract and Full Stack Dev
   ### Blockchain 
-  Experience as a Pro for Commercialization
+  Experience as a Professional for Commercialization
   - Smart Contract: Solidity, Rust (Solana), Move (Aptos)
   - DApp : Ability to struct Smart Contract and required using SDKs and Wallet Adapters
   - Core : Go (with bolt DB), Rust -> Studying chains like Ethereum, NEAR, Solana / Substrate / Cosmos SDK, Tendermint Core
@@ -27,13 +27,9 @@
   - DeFi : 3rd Prize in TAEBIT Global Defi Hackathon (making Crypto Wallet)
   
   ### Full Stack
-   Experience as a Pro for Commercialization
+   Experience as a Professional for Commercialization
   - FrontEnd: React, Next.js and its libraries, JS(ES6), TypeScript ...
   - BackEnd : Python (Django, Flask), Java (Spring) , DB(MySQL, Mongo DB) ...
-  
-  ### Computer Science and Cyber Security 
-  - Studying as a student in major
-  - Data Structure, Algorithm, Network, OS ...
   
   ### Artificial Intelligence & Data Science
   - Dune: https://dune.com/juwonleedev
