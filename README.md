@@ -32,6 +32,7 @@ Tech blog (Korean): https://velog.io/@juwonleedev/posts
   - BackEnd : Python (Django, Flask), Java (Spring) , DB(MySQL, Mongo DB) ...
   
   ### Data Science & Engineering
+  - Kaggle: https://www.kaggle.com/hoshinoruby
   - Dune: https://dune.com/juwonleedev
   - FlipsideCrypto: https://flipsidecrypto.xyz/juwonleedev
   - Machine Learning, Deep Learning
