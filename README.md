@@ -1,5 +1,6 @@
 # Irene Lee: Blockchain Research Engineer
 Tech blog (Korean): https://velog.io/@juwonleedev/posts 
+Archive: https://ireneljw.notion.site/Irene-s-Archive-945567849bac4e51aee7fce189a4d5cb 
 ## Careers
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
