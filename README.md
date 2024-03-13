@@ -4,7 +4,7 @@ Tech blog (Korean): https://velog.io/@juwonleedev/posts
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | Ewha Womans University | Information Security Research Laboratory |2023.11 - Current | Research Engineer | Cyber Security & Blockchain |
+  | Ewha Womans University | Information Security Research Laboratory |2023.11 - 2024.03 | Research Engineer | Cyber Security & Blockchain |
   | Xangle | Crypto Data Intelligence Platform |2023.10 - Current | Partner Researcher | Writing analysis reports on blockchain projects |
   | Solana Foundation | Blockchain Foundation |2023.06 - 2023.09 | Business Development Intern | Korean market & Games Entertainment Media |
   | Solana Foundation | Blockchain Foundation |2023.01 - 2023.06 | Ambassador | Solana University |
