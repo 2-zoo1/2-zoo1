@@ -4,7 +4,7 @@
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
   | Ewha Womans University | Information Security Research Laboratory |2023.11 - 2024.03 | Research Engineer | Cyber Security & Blockchain |
-  | Xangle | Crypto Data Intelligence Platform |2023.10 - Current | Partner Researcher | Writing analysis reports on blockchain projects |
+  | Xangle | Crypto Data Intelligence Platform |2023.10 - 2024.04 | Partner Researcher (External) | Writing analysis reports on blockchain projects |
   | Solana Foundation | Blockchain Foundation |2023.06 - 2023.09 | Business Development Intern | Korean market & Games Entertainment Media |
   | Solana Foundation | Blockchain Foundation |2023.01 - 2023.06 | Ambassador | Solana University |
   | NPIXEL | Blockchain Game |2022.03 - 2022.10 | Blockchain Web Programmer (Meta Platform Team) | Blockchain Technical R&D and Frontend |
