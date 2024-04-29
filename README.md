@@ -1,4 +1,4 @@
-# Irene Lee: Blockchain Research Engineer
+# Irene Lee: Virtual Assets & Blockchain Tech RA
 ## Careers
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
