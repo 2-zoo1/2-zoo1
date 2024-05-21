@@ -3,7 +3,7 @@
   
   | Company Name | Company Description | Dates of Employment | Role (Department) | Major Achievements |
   |:--------: |:--------:|:--------:|:--------:|:--------:|
-  | Xangle | Crypto Data Intelligence Platform |2024.05 - Now | Research Assistant Intern | Blockchain Technology and Business Analysis |
+  | Xangle | Crypto Data Intelligence Platform |2024.05 - Now | Research Analyst | Blockchain Technology and Business Analysis |
   | Ewha Womans University | Information Security Research Laboratory |2023.11 - 2024.03 | Research Engineer Intern | Cyber Security & Blockchain |
   | Xangle | Crypto Data Intelligence Platform |2023.10 - 2024.04 | Partner Researcher (External) | Writing analysis reports on blockchain projects |
   | Solana Foundation | Blockchain Foundation |2023.06 - 2023.09 | Business Development Intern | Korean market & Games Entertainment Media |
